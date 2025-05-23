@@ -58,6 +58,7 @@ URL: https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?json
 ### Приклад запуску:
 ```bash
 python main.py
+
 ## Вправа 6.3 — Реалізація HTTP-сервера
 
 У файлі `server.py` створено простий HTTP-сервер на Flask.  
